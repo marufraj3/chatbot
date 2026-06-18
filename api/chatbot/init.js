@@ -6,14 +6,14 @@ const WIDGETS = {
   // Public Key → Widget Config
   // আপনার website এর জন্য একটা key বানান
   'YOUR_PUBLIC_KEY': {
-    botName:          'SMMGEN AI Assistant',
-    panelName:        'SMMGEN',
+    botName:          'Mothersmm AI Assistant',
+    panelName:        'Mothersmm',
     panelDomain:      'https://mothersmm.com',
     widgetColor:      '#7C3AED',
     buttonShape:      'circle',
     buttonIcon:       'chat',
     widgetIconUrl:    '', // logo URL দিন অথবা খালি রাখুন
-    greetingMessage:  '👋 Welcome to SMMGEN AI Assistant!\n\nI recommend the best services using performance data, pricing, and insights from SMMGEN\'s order history.\n\n💡 You can ask me things like:\n• Best services for your needs\n• Service suggestion & Recent Order history check\n• Price & quality suggestions\n• General questions — in any language\n\nJust type your question, and I\'ll assist you instantly 🚀',
+    greetingMessage:  '👋 Welcome to Mothersmm AI Assistant!\n\nI recommend the best services using performance data, pricing, and insights from Mothersmm\'s order history.\n\n💡 You can ask me things like:\n• Best services for your needs\n• Service suggestion & Recent Order history check\n• Price & quality suggestions\n• General questions — in any language\n\nJust type your question, and I\'ll assist you instantly 🚀',
     greetingSuggestions: [
       { text: 'Hello' },
       { text: 'Best TikTok Likes' },
